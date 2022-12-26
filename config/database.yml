@@ -1,0 +1,17 @@
+default: &default
+  adapter: "<%= 'postgresql' if %w[multimedia api].include?(ENV['COMPONENT_NAME']) %>"
+  pool: "<%= ENV.fetch('RAILS_MAX_THREADS') { 5 } %>"
+  encoding: utf8
+  username: "<%= ENV.fetch('PS_USER') { 'postgres' } %>"
+  password: "<%= ENV.fetch('PS_PASSWD') { 'password' } %>"
+  host: "<%= ENV.fetch('PS_HOST', 'localhost') %>"
+  port: 5432
+  timeout: 5000
+
+development:
+  <<: *default
+  database: "my_lang_exp_<%= ENV['COMPONENT_NAME'] %>_development"
+
+test:
+  <<: *default
+  database: "my_lang_exp_<%= ENV['COMPONENT_NAME'] %>_test"
