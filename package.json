@@ -98,7 +98,7 @@
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "child_process": "^1.0.2",
     "elm-hot-webpack-loader": "^1.1.8",
-    "elm-test": "^0.19.1-revision10",
+    "elm-test": "^0.19.1-revision11",
     "eslint": "^8.30.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
