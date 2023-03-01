@@ -107,7 +107,7 @@
     "jest-json-schema": "^6.1.0",
     "jsonschema": "^1.4.1",
     "prettier": "^2.8.2",
-    "puppeteer": "^19.5.0",
+    "puppeteer": "^19.7.2",
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^18.2.0",
     "ts-jest": "^29.0.3",
