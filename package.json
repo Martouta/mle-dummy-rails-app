@@ -110,7 +110,7 @@
     "puppeteer": "^19.5.0",
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^18.2.0",
-    "ts-jest": "^29.0.3",
+    "ts-jest": "^29.0.5",
     "webpack-dev-server": "^4.11.1",
     "yarn-upgrade-all": "^0.7.2"
   }
