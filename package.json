@@ -33,7 +33,7 @@
     "compression-webpack-plugin": "^10.0.0",
     "css-loader": "^6.7.3",
     "css-minimizer-webpack-plugin": "^4.2.2",
-    "ejs": "^3.1.8",
+    "ejs": "^3.1.9",
     "elm": "^0.19.1-5",
     "elm-webpack-loader": "^8.0.0",
     "file-saver": "^2.0.5",
