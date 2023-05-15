@@ -62,7 +62,7 @@
     "react-player": "^2.12.0",
     "react-router-dom": "^6.11.1",
     "react-youtube": "^10.1.0",
-    "reactstrap": "^9.1.9",
+    "reactstrap": "^9.1.10",
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2",
     "shakapacker": "6.6.0",
