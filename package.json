@@ -107,7 +107,7 @@
     "jest-environment-jsdom": "^29.5.0",
     "jest-json-schema": "^6.1.0",
     "jsonschema": "^1.4.1",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "puppeteer": "^20.8.2",
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^18.2.0",
