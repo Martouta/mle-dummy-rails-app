@@ -3,7 +3,8 @@ const mode = process.env.NODE_ENV
 console.log('Looks like we are in development (test) mode!');
 
 const webpack = require('webpack')
-const { webpackConfig, merge } = require('shakapacker')
+const { generateWebpackConfig, merge } = require('shakapacker')
+const webpackConfig = generateWebpackConfig()
 const ForkTSCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin')
 
 const { basename, dirname, join, relative, resolve } = require('path')
