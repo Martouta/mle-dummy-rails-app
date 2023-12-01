@@ -10,7 +10,7 @@
     "@babel/preset-env": "^7.23.3",
     "@babel/preset-react": "^7.23.3",
     "@babel/preset-typescript": "^7.23.3",
-    "@babel/runtime": "^7.23.4",
+    "@babel/runtime": "^7.23.5",
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@glidejs/glide": "^3.6.0",
     "@rails/actioncable": "^7.1.2",
