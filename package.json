@@ -94,7 +94,7 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@webpack-cli/serve": "^1.7.0",
-    "ava": "^5.3.1",
+    "ava": "^6.0.1",
     "babel-jest": "^29.7.0",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "child_process": "^1.0.2",
