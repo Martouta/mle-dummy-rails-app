@@ -37,7 +37,7 @@
     "elm": "^0.19.1-6",
     "elm-webpack-loader": "^8.0.0",
     "file-saver": "^2.0.5",
-    "follow-redirects": "^1.15.3",
+    "follow-redirects": "^1.15.4",
     "fork-ts-checker-webpack-plugin": "^9.0.2",
     "from": "^0.1.7",
     "gulp": "^4.0.2",
