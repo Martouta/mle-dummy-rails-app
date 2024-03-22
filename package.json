@@ -5,12 +5,12 @@
     "test": "jest --verbose --coverage --maxWorkers=4"
   },
   "dependencies": {
-    "@babel/core": "^7.23.9",
-    "@babel/plugin-transform-runtime": "^7.23.9",
-    "@babel/preset-env": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/plugin-transform-runtime": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
     "@babel/preset-react": "^7.23.3",
     "@babel/preset-typescript": "^7.23.3",
-    "@babel/runtime": "^7.23.9",
+    "@babel/runtime": "^7.24.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@glidejs/glide": "^3.6.0",
     "@rails/actioncable": "^7.1.3",
