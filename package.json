@@ -40,7 +40,7 @@
     "follow-redirects": "^1.15.6",
     "fork-ts-checker-webpack-plugin": "^9.0.2",
     "from": "^0.1.7",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-append-prepend": "^1.0.9",
     "headroom.js": "^0.12.0",
     "json-schema": "^0.4.0",
